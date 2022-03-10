@@ -6,7 +6,7 @@ This is a solution to the [Social Proof Section](https://www.frontendmentor.io/c
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
@@ -20,10 +20,13 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
-<img src="./img/social-proof-section-desktop.png" alt="pcc-desktop">
-<img src="./img/social-proof-section-mobile.png" alt="pcc-mobile">
+#### Desktop View
+<img src="./img/social-proof-section-desktop.png" alt="Desktop View">
+
+#### Mobile View
+<img src="./img/social-proof-section-mobile.png" alt="Mobile View">
 
 ### Links
 
@@ -35,12 +38,11 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Google Fonts
+- Mobile-first workflow
 - Flexbox
 - Grid
-- Mobile-first workflow
 - Media Queries
+- Google Fonts
 
 ## Author
 
