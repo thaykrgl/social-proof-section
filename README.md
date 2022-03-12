@@ -6,7 +6,7 @@ This is a solution to the [Social Proof Section](https://www.frontendmentor.io/c
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Screenshots](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
